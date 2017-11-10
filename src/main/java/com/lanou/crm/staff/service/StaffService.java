@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * Created by dllo on 17/11/10.
  */
-public interface StaffService extends BaseDao {
+public interface StaffService extends BaseDao  {
     @Override
     public boolean save(Object o);
 

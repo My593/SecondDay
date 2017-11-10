@@ -46,9 +46,6 @@ FONT-SIZE: 12px; COLOR: #4b4b4b; LINE-HEIGHT: 18px; TEXT-DECORATION: none
 					</font> 
 					<br/>
 					<br/>
-					<font color="#ff0000">
-						错误提示
-					</font> 
 					<br/>
 					用户名：<input type="text" name="loginName" class="msg" /><br/><br/>
 					密&nbsp;码：<input type="password" name="loginPwd" class="msg" /><br/><br/>
